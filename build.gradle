@@ -155,7 +155,7 @@ buildscript {
 
     dependencies {
         classpath group: 'com.dmdirc', name: 'git-version', version: '1.0'
-        classpath group: 'org.kt3k.gradle.plugin', name: 'coveralls-gradle-plugin', version: '2.6.3'
+        classpath group: 'org.kt3k.gradle.plugin', name: 'coveralls-gradle-plugin', version: '2.8.2'
     }
 }
 
