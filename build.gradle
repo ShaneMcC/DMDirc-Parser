@@ -94,7 +94,7 @@ subprojects {
     repositories.mavenCentral()
 
     dependencies {
-        compile group: 'com.google.code.findbugs', name: 'jsr305', version: '3.0.1'
+        compile group: 'com.google.code.findbugs', name: 'jsr305', version: '3.0.2'
         compile group: 'com.squareup.dagger', name: 'dagger-compiler', version: '1.2.5'
         compile group: 'com.google.auto.value', name: 'auto-value', version: '1.3'
 
